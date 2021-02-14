@@ -1,5 +1,13 @@
 ### Привет всем, меня зовут Илья 🙂
 
+Мой стек:
+-HTML5
+-CSS3
+-JS
+-Git
+-Figma
+-VS Code
+
 <!--
 **Ilya869/ilya869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
